@@ -11,4 +11,4 @@ Permits data:image dataURL graphics in topic spaces.
 
 Copy the plugin to the /mod/allow_data_images directory, and enable it in administrator plugin settings.
 
-Best when used with the [CKEditor Paste Image] plugin (https://github.com/themanyone/CKEditor-Paste-Image).
+Best when used with the [CKEditor Paste Image](https://github.com/themanyone/CKEditor-Paste-Image) plugin.
